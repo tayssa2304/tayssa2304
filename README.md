@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+git config --global user.name "Tayssa Tanielly"
+git config --global user.email "00001132753880sp@al.educacao.sp.gov.br"    
+
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+}
