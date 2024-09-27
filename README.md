@@ -1,24 +1,11 @@
-## Hi there 👋
+# Meu Perfil
 
-<!--
-**tayssa2304/tayssa2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Olá! Eu sou [tayssa], desenvolvedor apaixonado por tecnologia e inovação.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-git config --global user.name "Tayssa Tanielly"
-git config --global user.email "00001132753880sp@al.educacao.sp.gov.br"    
-
-  createCanvas(400, 400);
-}
-
-function draw() {
-  background(220);
-}
+### Minhas Habilidades:
+- Exel
+-Word
+### Contato:
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [Twitter](https://twitter.com/seu-twitter)
